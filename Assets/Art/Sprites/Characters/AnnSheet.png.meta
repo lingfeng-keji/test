@@ -1,0 +1,1677 @@
+fileFormatVersion: 2
+guid: 3e42f12dcd941624e95ecbc5540c4e0e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 246579130747171180
+    second: AnnSheet_0
+  - first:
+      213: 1757838971481832174
+    second: AnnSheet_1
+  - first:
+      213: -4036877733100141908
+    second: AnnSheet_2
+  - first:
+      213: 198441031562580489
+    second: AnnSheet_3
+  - first:
+      213: 2672770234408472960
+    second: AnnSheet_4
+  - first:
+      213: -6431603893176594481
+    second: AnnSheet_5
+  - first:
+      213: 6883992692298627628
+    second: AnnSheet_6
+  - first:
+      213: -8170444490633416341
+    second: AnnSheet_7
+  - first:
+      213: 2474108280778985606
+    second: AnnSheet_8
+  - first:
+      213: -9186708946624465472
+    second: AnnSheet_9
+  - first:
+      213: 3731498602683765748
+    second: AnnSheet_10
+  - first:
+      213: -5019756833980863320
+    second: AnnSheet_11
+  - first:
+      213: -4592728530542493482
+    second: AnnSheet_12
+  - first:
+      213: -4851714104471142954
+    second: AnnSheet_13
+  - first:
+      213: 1321953796676881859
+    second: AnnSheet_14
+  - first:
+      213: -2406339770117338854
+    second: AnnSheet_15
+  - first:
+      213: -1883174998155593798
+    second: AnnSheet_16
+  - first:
+      213: -3867901877177723751
+    second: AnnSheet_17
+  - first:
+      213: 1789171159834899967
+    second: AnnSheet_18
+  - first:
+      213: -8981071994362417731
+    second: AnnSheet_19
+  - first:
+      213: 6731395212251244487
+    second: AnnSheet_20
+  - first:
+      213: -7204132112688030848
+    second: AnnSheet_21
+  - first:
+      213: 6205869748320821437
+    second: AnnSheet_22
+  - first:
+      213: -2283119434868773933
+    second: AnnSheet_23
+  - first:
+      213: 8408542144607097850
+    second: AnnSheet_24
+  - first:
+      213: 170326727431464831
+    second: AnnSheet_25
+  - first:
+      213: -2458318033166140835
+    second: AnnSheet_26
+  - first:
+      213: 3299589473003978440
+    second: AnnSheet_27
+  - first:
+      213: -9053622762076209684
+    second: AnnSheet_28
+  - first:
+      213: -3130516004767462084
+    second: AnnSheet_29
+  - first:
+      213: 7830007016390875464
+    second: AnnSheet_30
+  - first:
+      213: 5662337250945673452
+    second: AnnSheet_31
+  - first:
+      213: -844450028139430686
+    second: AnnSheet_32
+  - first:
+      213: 7616557117038049833
+    second: AnnSheet_33
+  - first:
+      213: -2111644306037612278
+    second: AnnSheet_34
+  - first:
+      213: 6335119076042819223
+    second: AnnSheet_35
+  - first:
+      213: -2982001641671264282
+    second: AnnSheet_36
+  - first:
+      213: 8983227510529880497
+    second: AnnSheet_37
+  - first:
+      213: 7745947326937430071
+    second: AnnSheet_38
+  - first:
+      213: -8662529705499662802
+    second: AnnSheet_39
+  - first:
+      213: -5099049022141328218
+    second: AnnSheet_40
+  - first:
+      213: 3818312001356916426
+    second: AnnSheet_41
+  - first:
+      213: 2751768445251653345
+    second: AnnSheet_42
+  - first:
+      213: -8861278964724810403
+    second: AnnSheet_43
+  - first:
+      213: -6968480706507758888
+    second: AnnSheet_44
+  - first:
+      213: -5599709309299396418
+    second: AnnSheet_45
+  - first:
+      213: -207308349829737729
+    second: AnnSheet_46
+  - first:
+      213: -4589707293860692736
+    second: AnnSheet_47
+  - first:
+      213: 2658748623861155340
+    second: AnnSheet_48
+  - first:
+      213: 3467306669778264839
+    second: AnnSheet_49
+  - first:
+      213: 5854864293918027692
+    second: AnnSheet_50
+  - first:
+      213: 94577681296362764
+    second: AnnSheet_51
+  - first:
+      213: -6891884726383824048
+    second: AnnSheet_52
+  - first:
+      213: 7926799987001350950
+    second: AnnSheet_53
+  - first:
+      213: 817094052476441370
+    second: AnnSheet_54
+  - first:
+      213: -5319632719181846173
+    second: AnnSheet_55
+  - first:
+      213: 8944268766017383694
+    second: AnnSheet_56
+  - first:
+      213: 3140645474774295137
+    second: AnnSheet_57
+  - first:
+      213: -2807281297803596919
+    second: AnnSheet_58
+  - first:
+      213: -9038458154687931189
+    second: AnnSheet_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AnnSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 124
+        width: 64
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a706f3c9f671f4fa248de3920c070c
+      internalID: 518946444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 124
+        width: 64
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5b5f621312bfe4fa254ddc4c467fd2
+      internalID: -1836147107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_2
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 124
+        width: 64
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5804aefe245f59a4f84f71e83a077900
+      internalID: -1797490261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_3
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 124
+        width: 64
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c5c614648707844819558999da15a8
+      internalID: -637655767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_4
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 124
+        width: 64
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d2f20bcef334644834ef62da6c8edb
+      internalID: 1524206717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_5
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 124
+        width: 64
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 481156999a6714145bd8a321d24b1cea
+      internalID: 294915057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_6
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 124
+        width: 72
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a7232338740dd40a8754fc14d1f802
+      internalID: 1698884975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 88
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d1c2f4d464d0a4f88850797ab0edd2
+      internalID: -9517539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_8
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 88
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5aa29deecb8b0e4fa82b508a7e7f7a0
+      internalID: 1640197857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_9
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 88
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48275fd8b64d54346a682c09bd544c05
+      internalID: -1711889494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_10
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 88
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a058b72bc16c0534599cb40e228f4c61
+      internalID: 1478856149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_11
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 88
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62fe9fa57ec6afd458b5f2f3432d603a
+      internalID: -370272124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_12
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 88
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c046b65a73e5b4f8997d03b1a1cd19
+      internalID: -1190836748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_13
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 88
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8d93b2fd876ad498390e9b9d32cb3a
+      internalID: 1272022590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_14
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 88
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20eeb7e04a655e4439ad5c193e956a7e
+      internalID: -402525998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_15
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 88
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68de6b8a1089a634993d4ba1950ac9de
+      internalID: 1961441419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_16
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 88
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 565edfbe18e4c5148a172f4c89e64410
+      internalID: -2060525584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_17
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 88
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b293319f0b2ddfa4db673631f3fa7dfa
+      internalID: -550643735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_18
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 88
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730c69f21331dd14ba5338bd22f6b9ca
+      internalID: -1560118169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_19
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 88
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8165a7ea6c749954da767d42ab9ff3ec
+      internalID: 1476870133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_20
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 88
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab69a4c2ebb43a64a8344ccbdca32e41
+      internalID: 1832573715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_21
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 88
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12fa62d434951924f84f8d314549b956
+      internalID: -72302703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_22
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 88
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db35017a66ed834eb705f3d074094f8
+      internalID: 235218791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 52
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc60637b51700d34aba93d36f4fe9f4a
+      internalID: -1742001977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_24
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 52
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539513b167d37894396c04a1732d1266
+      internalID: -1483267361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_25
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 52
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000fbef9851419845ab31a866ac2e3d6
+      internalID: 549261343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_26
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 52
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc004fdab5c53b46a7e7bf4c3dbf9cc
+      internalID: 1853340753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_27
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 52
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd2f847b3c43ff459647508d7354902
+      internalID: 187595980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_28
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 52
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279664344f3c43b48b0b85ecd5645d70
+      internalID: 14089563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_29
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 52
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a45db14718f20c409e847507fb2dd26
+      internalID: -1544409097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_30
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 52
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3307b9283518c4685261f74f0fb516
+      internalID: 1130570773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_31
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 52
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff80603e064a5449b7e95bf44750aa8
+      internalID: 96571226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_32
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 52
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa0c92ba6e120c4eb24cdc5030dcdb8
+      internalID: 1926661435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_33
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 52
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dcc07fc235bf554291aa968f66550a3
+      internalID: 915570425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_34
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 52
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124b2b9d709815145a412845067ad7b9
+      internalID: -1281659077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_35
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 52
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed31f22714fa50c4fa2057f81ad9c1b4
+      internalID: 1335748165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_36
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 52
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c0d77e56049bd48a27de8211152cd9
+      internalID: 584552050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_37
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 52
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e6a954616cc1b4faa386aff15f360a
+      internalID: 1310794745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_38
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 52
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4064e8b89990164ba6151a3fc9d8184
+      internalID: -1417258965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_39
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 52
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f9cc815e2a08d4b8f547253c1b558c
+      internalID: -1317423029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 25
+        width: 24
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0275309f87a834e85a5f25143a6e37
+      internalID: 810148512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_41
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 25
+        width: 24
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5907efb9df6604dafcce3717941ab3
+      internalID: -1656611320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_42
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 25
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd089a96208e46743b4046b42e899ff1
+      internalID: -2102284384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_43
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 0
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e80d2167519cca4c9ef384ed615b3c0
+      internalID: 618183075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_44
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 0
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1322e63d29acb48b753cc9bf38aa5f
+      internalID: -2145329928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_45
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786a4615b7c8823478207c87cb9ecebc
+      internalID: 1021941703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_46
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 19
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95fea398798a44248a8f6ae03006cb51
+      internalID: -1772442663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_47
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 19
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884d86c8b80387340b1b87b3b52ac0e9
+      internalID: 2146513168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_48
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 19
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81f9cdf011bca84b8ed614449ebe9c7
+      internalID: -1523894731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_49
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 19
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5a488316ebd2748b0e951d747fd950
+      internalID: -1609755422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_50
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 19
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b004304e335a12245b3d96d1524a28a4
+      internalID: 175125192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_51
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 19
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7acc72030449b874dbcabb07324ecf69
+      internalID: -1792665754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_52
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 19
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2cf448aa2a34974d8b738994529231f
+      internalID: 1262838716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_53
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 19
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96077522eae669489732a31dcf0ddf9
+      internalID: -512908567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_54
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 19
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e20929df92c0243449c97993b77c7007
+      internalID: 816117165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_55
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 19
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf8b6b638fb82d4aa106519f0a53c55
+      internalID: 2052582202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_56
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 19
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f15cb80e61d5d4eac84d49b647f6ef
+      internalID: -1863558018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0af7ac9247c8294baea0d044552ebff
+      internalID: -279295573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_58
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 0
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069eb55fc23cef74ca1d0c6677ed9f49
+      internalID: 2113536778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_59
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df03bdbbf142f0547a958c6d783dcdf8
+      internalID: 189645792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: bc1188edf721e6b4cb2087b0aa225c19
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      AnnSheet_0: 518946444
+      AnnSheet_1: -1836147107
+      AnnSheet_10: 1478856149
+      AnnSheet_11: -370272124
+      AnnSheet_12: -1190836748
+      AnnSheet_13: 1272022590
+      AnnSheet_14: -402525998
+      AnnSheet_15: 1961441419
+      AnnSheet_16: -2060525584
+      AnnSheet_17: -550643735
+      AnnSheet_18: -1560118169
+      AnnSheet_19: 1476870133
+      AnnSheet_2: -1797490261
+      AnnSheet_20: 1832573715
+      AnnSheet_21: -72302703
+      AnnSheet_22: 235218791
+      AnnSheet_23: -1742001977
+      AnnSheet_24: -1483267361
+      AnnSheet_25: 549261343
+      AnnSheet_26: 1853340753
+      AnnSheet_27: 187595980
+      AnnSheet_28: 14089563
+      AnnSheet_29: -1544409097
+      AnnSheet_3: -637655767
+      AnnSheet_30: 1130570773
+      AnnSheet_31: 96571226
+      AnnSheet_32: 1926661435
+      AnnSheet_33: 915570425
+      AnnSheet_34: -1281659077
+      AnnSheet_35: 1335748165
+      AnnSheet_36: 584552050
+      AnnSheet_37: 1310794745
+      AnnSheet_38: -1417258965
+      AnnSheet_39: -1317423029
+      AnnSheet_4: 1524206717
+      AnnSheet_40: 810148512
+      AnnSheet_41: -1656611320
+      AnnSheet_42: -2102284384
+      AnnSheet_43: 618183075
+      AnnSheet_44: -2145329928
+      AnnSheet_45: 1021941703
+      AnnSheet_46: -1772442663
+      AnnSheet_47: 2146513168
+      AnnSheet_48: -1523894731
+      AnnSheet_49: -1609755422
+      AnnSheet_5: 294915057
+      AnnSheet_50: 175125192
+      AnnSheet_51: -1792665754
+      AnnSheet_52: 1262838716
+      AnnSheet_53: -512908567
+      AnnSheet_54: 816117165
+      AnnSheet_55: 2052582202
+      AnnSheet_56: -1863558018
+      AnnSheet_57: -279295573
+      AnnSheet_58: 2113536778
+      AnnSheet_59: 189645792
+      AnnSheet_6: 1698884975
+      AnnSheet_7: -9517539
+      AnnSheet_8: 1640197857
+      AnnSheet_9: -1711889494
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

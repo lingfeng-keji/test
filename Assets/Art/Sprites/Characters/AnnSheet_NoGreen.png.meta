@@ -1,0 +1,1677 @@
+fileFormatVersion: 2
+guid: 6a6b787e9bd77d8469e0195771ff807e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 916959450283918658
+    second: AnnSheet_NoGreen_0
+  - first:
+      213: 4010828167567312559
+    second: AnnSheet_NoGreen_1
+  - first:
+      213: -2181788677033086059
+    second: AnnSheet_NoGreen_2
+  - first:
+      213: 5417135131555132347
+    second: AnnSheet_NoGreen_3
+  - first:
+      213: -2662890123890442221
+    second: AnnSheet_NoGreen_4
+  - first:
+      213: 1180743253224452370
+    second: AnnSheet_NoGreen_5
+  - first:
+      213: -7683877586249471574
+    second: AnnSheet_NoGreen_6
+  - first:
+      213: 7141679397963293132
+    second: AnnSheet_NoGreen_7
+  - first:
+      213: -2607135672137025191
+    second: AnnSheet_NoGreen_8
+  - first:
+      213: 6885116615611414949
+    second: AnnSheet_NoGreen_9
+  - first:
+      213: -6105809276045870583
+    second: AnnSheet_NoGreen_10
+  - first:
+      213: -4286721626776452652
+    second: AnnSheet_NoGreen_11
+  - first:
+      213: 1021733733139293258
+    second: AnnSheet_NoGreen_12
+  - first:
+      213: 2989241434156829293
+    second: AnnSheet_NoGreen_13
+  - first:
+      213: 1719544336310819177
+    second: AnnSheet_NoGreen_14
+  - first:
+      213: -5974769946057095399
+    second: AnnSheet_NoGreen_15
+  - first:
+      213: -3988556629560464231
+    second: AnnSheet_NoGreen_16
+  - first:
+      213: -3214749240379885264
+    second: AnnSheet_NoGreen_17
+  - first:
+      213: 8209482828143375481
+    second: AnnSheet_NoGreen_18
+  - first:
+      213: -8406448176231704780
+    second: AnnSheet_NoGreen_19
+  - first:
+      213: 2225362336404305973
+    second: AnnSheet_NoGreen_20
+  - first:
+      213: 4714438526030816365
+    second: AnnSheet_NoGreen_21
+  - first:
+      213: 9071180209144170123
+    second: AnnSheet_NoGreen_22
+  - first:
+      213: 3521746438750750014
+    second: AnnSheet_NoGreen_23
+  - first:
+      213: -8888745555513425018
+    second: AnnSheet_NoGreen_24
+  - first:
+      213: -569433119194000383
+    second: AnnSheet_NoGreen_25
+  - first:
+      213: -4454442064848313037
+    second: AnnSheet_NoGreen_26
+  - first:
+      213: 5224171729593921808
+    second: AnnSheet_NoGreen_27
+  - first:
+      213: -2063192898944474695
+    second: AnnSheet_NoGreen_28
+  - first:
+      213: 5788175420281210228
+    second: AnnSheet_NoGreen_29
+  - first:
+      213: -6732680468269548539
+    second: AnnSheet_NoGreen_30
+  - first:
+      213: -6829366484030215028
+    second: AnnSheet_NoGreen_31
+  - first:
+      213: -7248353664878605294
+    second: AnnSheet_NoGreen_32
+  - first:
+      213: 436274004285656986
+    second: AnnSheet_NoGreen_33
+  - first:
+      213: -3378800030656574934
+    second: AnnSheet_NoGreen_34
+  - first:
+      213: -5408531298650845691
+    second: AnnSheet_NoGreen_35
+  - first:
+      213: -6307625588908889184
+    second: AnnSheet_NoGreen_36
+  - first:
+      213: -1304977772819797775
+    second: AnnSheet_NoGreen_37
+  - first:
+      213: 63254010056135711
+    second: AnnSheet_NoGreen_38
+  - first:
+      213: 386425558122288352
+    second: AnnSheet_NoGreen_39
+  - first:
+      213: 3433333441504982885
+    second: AnnSheet_NoGreen_40
+  - first:
+      213: 7331776437791184267
+    second: AnnSheet_NoGreen_41
+  - first:
+      213: -5389157650707637806
+    second: AnnSheet_NoGreen_42
+  - first:
+      213: -3595424943581142461
+    second: AnnSheet_NoGreen_43
+  - first:
+      213: 6423765084116437755
+    second: AnnSheet_NoGreen_44
+  - first:
+      213: 2488479470772174236
+    second: AnnSheet_NoGreen_45
+  - first:
+      213: 1752074208581118410
+    second: AnnSheet_NoGreen_46
+  - first:
+      213: -7354009142359473747
+    second: AnnSheet_NoGreen_47
+  - first:
+      213: 106883599285482040
+    second: AnnSheet_NoGreen_48
+  - first:
+      213: -3791425492604446363
+    second: AnnSheet_NoGreen_49
+  - first:
+      213: 4085173787523440748
+    second: AnnSheet_NoGreen_50
+  - first:
+      213: -6541975467093975235
+    second: AnnSheet_NoGreen_51
+  - first:
+      213: 7985447582112488337
+    second: AnnSheet_NoGreen_52
+  - first:
+      213: -1227007184513474752
+    second: AnnSheet_NoGreen_53
+  - first:
+      213: -5734041289155071861
+    second: AnnSheet_NoGreen_54
+  - first:
+      213: 886101717981875575
+    second: AnnSheet_NoGreen_55
+  - first:
+      213: 4911296086072728003
+    second: AnnSheet_NoGreen_56
+  - first:
+      213: 4335904210076891093
+    second: AnnSheet_NoGreen_57
+  - first:
+      213: 1761815309837785010
+    second: AnnSheet_NoGreen_58
+  - first:
+      213: 3321184357511814464
+    second: AnnSheet_NoGreen_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AnnSheet_NoGreen_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 123
+        width: 59
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2454c9303c1b9bc00800000000000000
+      internalID: 916959450283918658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_NoGreen_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 123
+        width: 58
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa60bf6d7f259a730800000000000000
+      internalID: 4010828167567312559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_NoGreen_2
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 123
+        width: 62
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 593397202cab8b1e0800000000000000
+      internalID: -2181788677033086059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_NoGreen_3
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 123
+        width: 61
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3f1a073b78d2b40800000000000000
+      internalID: 5417135131555132347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_NoGreen_4
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 123
+        width: 57
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3104d997a838b0bd0800000000000000
+      internalID: -2662890123890442221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_NoGreen_5
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 123
+        width: 58
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 211f163abb7d26010800000000000000
+      internalID: 1180743253224452370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_NoGreen_6
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 123
+        width: 69
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa9a306db026d5590800000000000000
+      internalID: -7683877586249471574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnIdleDown
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 88
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc1e35ff2975c1360800000000000000
+      internalID: 7141679397963293132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnIdleUp
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 88
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 959f50d5be791dbd0800000000000000
+      internalID: -2607135672137025191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnIdleSides
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 88
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a978ae3519dc8f50800000000000000
+      internalID: 6885116615611414949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnWalkDown_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 88
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a300b30dec34ba0800000000000000
+      internalID: -6105809276045870583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnWalkDown_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 88
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d1410974618284c0800000000000000
+      internalID: -4286721626776452652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnWalkUp_1
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 88
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a442dcaba6ded2e00800000000000000
+      internalID: 1021733733139293258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnWalkUp_2
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 88
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a0cc62f3beb7920800000000000000
+      internalID: 2989241434156829293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnWalkSides_1
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 88
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 969575d967c0dd710800000000000000
+      internalID: 1719544336310819177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnWalkSides_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 88
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9174696c36a551da0800000000000000
+      internalID: -5974769946057095399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_NoGreen_16
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 88
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ce480b0ecc5a8c0800000000000000
+      internalID: -3988556629560464231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_NoGreen_17
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 88
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 039333d299ae263d0800000000000000
+      internalID: -3214749240379885264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_NoGreen_18
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 88
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974b721f221fde170800000000000000
+      internalID: 8209482828143375481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_NoGreen_19
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 88
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4379af84ceb465b80800000000000000
+      internalID: -8406448176231704780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_NoGreen_20
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 87
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53879e5214312ee10800000000000000
+      internalID: 2225362336404305973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_NoGreen_21
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 87
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d64ab7b7cdc0d6140800000000000000
+      internalID: 4714438526030816365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_NoGreen_22
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 87
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b86879bc65e43ed70800000000000000
+      internalID: 9071180209144170123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_NoGreen_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 51
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e354cbe1ab1cfd030800000000000000
+      internalID: 3521746438750750014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_NoGreen_24
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 51
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6834ac80305d4a480800000000000000
+      internalID: -8888745555513425018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_NoGreen_25
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 51
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10459175897f818f0800000000000000
+      internalID: -569433119194000383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_NoGreen_26
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 51
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 335a82cea84ae22c0800000000000000
+      internalID: -4454442064848313037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_NoGreen_27
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 51
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011751c528cff7840800000000000000
+      internalID: 5224171729593921808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_NoGreen_28
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 51
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b16e4b5df01e53e0800000000000000
+      internalID: -2063192898944474695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_NoGreen_29
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 51
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 475428fa0eab35050800000000000000
+      internalID: 5788175420281210228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_NoGreen_30
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 51
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c359e09c6b092a0800000000000000
+      internalID: -6732680468269548539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_NoGreen_31
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 51
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8cab66cd573931a0800000000000000
+      internalID: -6829366484030215028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_NoGreen_32
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 51
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21c8286cebca86b90800000000000000
+      internalID: -7248353664878605294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_NoGreen_33
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 51
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f0f2a35e4fd0600800000000000000
+      internalID: 436274004285656986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_NoGreen_34
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 51
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ac2a516471c11d0800000000000000
+      internalID: -3378800030656574934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_NoGreen_35
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 52
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e8553807901f4b0800000000000000
+      internalID: -5408531298650845691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_NoGreen_36
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 51
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0abebe432ffc678a0800000000000000
+      internalID: -6307625588908889184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_NoGreen_37
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 51
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f8ab4331a9c3ede0800000000000000
+      internalID: -1304977772819797775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_NoGreen_38
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 51
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f14d300ef29b0e000800000000000000
+      internalID: 63254010056135711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_NoGreen_39
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 51
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e4d20c6ffbdc5500800000000000000
+      internalID: 386425558122288352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_NoGreen_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567bf501396a5af20800000000000000
+      internalID: 3433333441504982885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_NoGreen_41
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 25
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b855f1323d3bfb560800000000000000
+      internalID: 7331776437791184267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_NoGreen_42
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d91efe6badd535b0800000000000000
+      internalID: -5389157650707637806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_NoGreen_43
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 24
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 342644d201c7a1ec0800000000000000
+      internalID: -3595424943581142461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_NoGreen_44
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa41573f4cc52950800000000000000
+      internalID: 6423765084116437755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_NoGreen_45
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 24
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d3a36e4ead88220800000000000000
+      internalID: 2488479470772174236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_NoGreen_46
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 0
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac9e996b53e905810800000000000000
+      internalID: 1752074208581118410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_NoGreen_47
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 0
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da140b2f5af41f990800000000000000
+      internalID: -7354009142359473747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_NoGreen_48
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 0
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 832f9b7311abb7100800000000000000
+      internalID: 106883599285482040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_NoGreen_49
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 19
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56993f03a96226bc0800000000000000
+      internalID: -3791425492604446363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_NoGreen_50
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 18
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6062136ae371b830800000000000000
+      internalID: 4085173787523440748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_NoGreen_51
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 18
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f1b8a39fb3635a0800000000000000
+      internalID: -6541975467093975235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_NoGreen_52
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 18
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b1158644202de60800000000000000
+      internalID: 7985447582112488337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_NoGreen_53
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 18
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04fd836777bc8fee0800000000000000
+      internalID: -1227007184513474752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_NoGreen_54
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 18
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b803d78e3d79c60b0800000000000000
+      internalID: -5734041289155071861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_NoGreen_55
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 19
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d4c2751d01c4c00800000000000000
+      internalID: 886101717981875575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_NoGreen_56
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 18
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c99125e4cd682440800000000000000
+      internalID: 4911296086072728003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_NoGreen_57
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 18
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d7f0cd08e93c2c30800000000000000
+      internalID: 4335904210076891093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_NoGreen_58
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 18
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b7d9b690b9337810800000000000000
+      internalID: 1761815309837785010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnSheet_NoGreen_59
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 18
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d5317a397371e20800000000000000
+      internalID: 3321184357511814464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ba81fcda16a119745988afcb59354466
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      AnnIdleDown: 7141679397963293132
+      AnnIdleSides: 6885116615611414949
+      AnnIdleUp: -2607135672137025191
+      AnnSheet_NoGreen_0: 916959450283918658
+      AnnSheet_NoGreen_1: 4010828167567312559
+      AnnSheet_NoGreen_16: -3988556629560464231
+      AnnSheet_NoGreen_17: -3214749240379885264
+      AnnSheet_NoGreen_18: 8209482828143375481
+      AnnSheet_NoGreen_19: -8406448176231704780
+      AnnSheet_NoGreen_2: -2181788677033086059
+      AnnSheet_NoGreen_20: 2225362336404305973
+      AnnSheet_NoGreen_21: 4714438526030816365
+      AnnSheet_NoGreen_22: 9071180209144170123
+      AnnSheet_NoGreen_23: 3521746438750750014
+      AnnSheet_NoGreen_24: -8888745555513425018
+      AnnSheet_NoGreen_25: -569433119194000383
+      AnnSheet_NoGreen_26: -4454442064848313037
+      AnnSheet_NoGreen_27: 5224171729593921808
+      AnnSheet_NoGreen_28: -2063192898944474695
+      AnnSheet_NoGreen_29: 5788175420281210228
+      AnnSheet_NoGreen_3: 5417135131555132347
+      AnnSheet_NoGreen_30: -6732680468269548539
+      AnnSheet_NoGreen_31: -6829366484030215028
+      AnnSheet_NoGreen_32: -7248353664878605294
+      AnnSheet_NoGreen_33: 436274004285656986
+      AnnSheet_NoGreen_34: -3378800030656574934
+      AnnSheet_NoGreen_35: -5408531298650845691
+      AnnSheet_NoGreen_36: -6307625588908889184
+      AnnSheet_NoGreen_37: -1304977772819797775
+      AnnSheet_NoGreen_38: 63254010056135711
+      AnnSheet_NoGreen_39: 386425558122288352
+      AnnSheet_NoGreen_4: -2662890123890442221
+      AnnSheet_NoGreen_40: 3433333441504982885
+      AnnSheet_NoGreen_41: 7331776437791184267
+      AnnSheet_NoGreen_42: -5389157650707637806
+      AnnSheet_NoGreen_43: -3595424943581142461
+      AnnSheet_NoGreen_44: 6423765084116437755
+      AnnSheet_NoGreen_45: 2488479470772174236
+      AnnSheet_NoGreen_46: 1752074208581118410
+      AnnSheet_NoGreen_47: -7354009142359473747
+      AnnSheet_NoGreen_48: 106883599285482040
+      AnnSheet_NoGreen_49: -3791425492604446363
+      AnnSheet_NoGreen_5: 1180743253224452370
+      AnnSheet_NoGreen_50: 4085173787523440748
+      AnnSheet_NoGreen_51: -6541975467093975235
+      AnnSheet_NoGreen_52: 7985447582112488337
+      AnnSheet_NoGreen_53: -1227007184513474752
+      AnnSheet_NoGreen_54: -5734041289155071861
+      AnnSheet_NoGreen_55: 886101717981875575
+      AnnSheet_NoGreen_56: 4911296086072728003
+      AnnSheet_NoGreen_57: 4335904210076891093
+      AnnSheet_NoGreen_58: 1761815309837785010
+      AnnSheet_NoGreen_59: 3321184357511814464
+      AnnSheet_NoGreen_6: -7683877586249471574
+      AnnWalkDown_1: -6105809276045870583
+      AnnWalkDown_2: -4286721626776452652
+      AnnWalkSides_1: 1719544336310819177
+      AnnWalkSides_2: -5974769946057095399
+      AnnWalkUp_1: 1021733733139293258
+      AnnWalkUp_2: 2989241434156829293
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
