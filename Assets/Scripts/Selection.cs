@@ -1,7 +1,11 @@
+using Unity.VisualScripting;
 using UnityEngine;
+using static SelectionManager;
 
 public class Selection : MonoBehaviour
 {
+    public SelectionManager.SelectedType selectedType;
+
     Renderer _renderer;
 
     private void Awake()
@@ -25,11 +29,20 @@ public class Selection : MonoBehaviour
 
     public void SetSelectedColor()
     {
-        _renderer.material.color = Color.red;
+        if (selectedType == SelectedType.None)
+        {
+            if (_renderer != null)
+            {
+                _renderer.material.color = Color.red;
+            }    
+        }  
     }
 
     public void SetDeselectedColor()
     {
-        _renderer.material.color = Color.white;
+        if (selectedType == SelectedType.None)
+        {
+            _renderer.material.color = Color.white;
+        }
     }
 }

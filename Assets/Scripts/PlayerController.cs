@@ -4,7 +4,6 @@ using UnityEngine;
 using Pathfinding;
 using UnityEngine.Assertions;
 
-[RequireComponent(typeof(Rigidbody2D))]
 public class PlayerController : MonoBehaviour
 {
     private new Rigidbody2D rigidbody2D = null;
@@ -42,10 +41,23 @@ public class PlayerController : MonoBehaviour
     bool isMovingToDest = false;
     bool reachDest = false;
 
+    public int health = 0;
+    public int stamina = 0;
+
     void Awake()
     {
+        //Transform physicsTransform = transform.Find("Physics");
+        //Assert.IsNotNull(physicsTransform);
+        //rigidbody2D = physicsTransform.GetComponent<Rigidbody2D>();
+        //Assert.IsNotNull(rigidbody2D);
+
         rigidbody2D = GetComponent<Rigidbody2D>();
-        animator = GetComponent<Animator>();
+
+        Transform graphicsTransform = transform.Find("Graphics");
+        Assert.IsNotNull(graphicsTransform);
+        animator = graphicsTransform.GetComponent<Animator>();
+        Assert.IsNotNull(animator);
+
         seeker  = GetComponent<Seeker>();
     }
 

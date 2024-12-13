@@ -3,8 +3,8 @@ using UnityEngine;
 
 public class LocationManager : Singleton<LocationManager>
 {
-    // Èç¹û²»Í¬¹Ø¿¨£¬»¹ĞèÔÚ²»Í¬¹Ø¿¨ÔØÈëĞ¶ÔØÊ±¸Ä±ä
-    [ReadOnly] public List<GameObject> LocationList; // µ¥´¿Îªµ÷ÊÔ¿ÉÊÓ»¯ÓÃ
+    // å¦‚æœä¸åŒå…³å¡ï¼Œè¿˜éœ€åœ¨ä¸åŒå…³å¡è½½å…¥å¸è½½æ—¶æ”¹å˜
+    [ReadOnly] public List<GameObject> LocationList; // å•çº¯ä¸ºè°ƒè¯•å¯è§†åŒ–ç”¨
     public Dictionary<string, GameObject> NameToLocationDict;
 
     private void Start()

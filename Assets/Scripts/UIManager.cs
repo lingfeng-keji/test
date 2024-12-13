@@ -9,6 +9,12 @@ public class UIManager : Singleton<UIManager>
     private GameObject activeCommand;
     private TMP_Text activeCommandText;
 
+    private GameObject characterInfoDisplay;
+    private GameObject health;
+    private GameObject stamina;
+
+    public PlayerController playerController;
+
     // https://discussions.unity.com/t/can-i-should-i-call-awake-in-parent-class-manually/61587
     public override void Awake()
     {
@@ -16,6 +22,12 @@ public class UIManager : Singleton<UIManager>
         commandTexts = new List<TMP_Text>();
         activeCommand = FindChild(gameObject, "ActiveCommand");
         commandInQueue = FindChild(gameObject, "CommandInQueue");
+
+        characterInfoDisplay = FindChild(gameObject, "CharacterInfoDisplay");
+        health = FindChild(gameObject, "Health");
+        stamina = FindChild(gameObject, "Stamina");
+
+        characterInfoDisplay.SetActive(false);
     }
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -41,6 +53,9 @@ public class UIManager : Singleton<UIManager>
         activeCommandItem.SetActive(true);
         activeCommandText = activeCommandItem.GetComponent<TMP_Text>();
         activeCommandText.text = string.Empty;
+
+        SelectionManager.Instance.Selected += OnSelected;
+        SelectionManager.Instance.Deselected += OnDeselected;
     }
 
     // Update is called once per frame
@@ -53,13 +68,23 @@ public class UIManager : Singleton<UIManager>
 
         activeCommandText.text = string.Empty;
 
-        var currentSelect = SelectionManager.Instance.currentSelected;
-        if (currentSelect != null)
+        var currentSelected = SelectionManager.Instance.currentSelected;
+        if (currentSelected != null)
         {
-            var commandExecutor = currentSelect.GetComponent<CommandExecutor>();
-            if (commandExecutor != null)
+            CommandExecutor executor = null;
+            if (currentSelected.selectedType == SelectionManager.SelectedType.Character)
             {
-                var commandQueue = commandExecutor.commandQueue;
+                executor = currentSelected.transform.parent.GetComponent<CommandExecutor>();
+                // executor = currentSelected.GetComponent<CommandExecutor>();
+            }
+            else
+            {
+                executor = currentSelected.GetComponent<CommandExecutor>();
+            }
+
+            if (executor != null)
+            {
+                var commandQueue = executor.commandQueue;
 
                 int i = 0;
                 foreach (var command in commandQueue)
@@ -70,7 +95,7 @@ public class UIManager : Singleton<UIManager>
                     ++i;
                 }
 
-                var active = commandExecutor.activeCommand;
+                var active = executor.activeCommand;
                 if (active != null)
                 {
                     var activeName = active.GetType().Name;
@@ -98,5 +123,21 @@ public class UIManager : Singleton<UIManager>
         }
 
         return null; // Return null if not found
+    }
+
+    public void OnSelected(Selection selection)
+    {
+        if (selection.selectedType == SelectionManager.SelectedType.Character)
+        {
+            characterInfoDisplay.SetActive(true);
+        }
+    }
+
+    public void OnDeselected(Selection selection)
+    {
+        if (selection.selectedType == SelectionManager.SelectedType.Character)
+        {
+            characterInfoDisplay.SetActive(false);
+        }
     }
 }

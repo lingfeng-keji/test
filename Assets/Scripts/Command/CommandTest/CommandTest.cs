@@ -49,7 +49,8 @@ public class CommandTest : Singleton<CommandTest>
             // https://docs.unity3d.com/6000.0/Documentation/ScriptReference/Renderer-sortingOrder.html
             renderer.sortingOrder = 1;
 
-            go.AddComponent<BoxCollider2D>();
+            var collider = go.AddComponent<BoxCollider2D>();
+            collider.isTrigger = true;
             go.AddComponent<Selection>();
 
             goList.Add(go);
@@ -72,6 +73,9 @@ public class CommandTest : Singleton<CommandTest>
             var locationA = LocationManager.Instance.NameToLocationDict["AAA"];
             var moveToCommand = new MoveToCommand(playerExecutor, locationA.transform.position);
             moveToCommand.EnqueueSelf();
+
+            Command sleepCommand = new SleepCommand(playerExecutor, 4.0f);
+            sleepCommand.EnqueueSelf();
 
             var locationB = LocationManager.Instance.NameToLocationDict["BBB"];
             moveToCommand = new MoveToCommand(playerExecutor, locationB.transform.position);

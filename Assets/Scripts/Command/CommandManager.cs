@@ -8,7 +8,7 @@ public class CommandManager : Singleton<CommandManager>
 
     public void RegisterExecuter(CommandExecutor executor)
     {
-        // Ò²ÐíSet¸üºÃ£¿
+        // ä¹Ÿè®¸Setæ›´å¥½ï¼Ÿ
         if (!excutors.Contains(executor))
             excutors.Add(executor);
     }

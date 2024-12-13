@@ -47,7 +47,7 @@ public class CommandExecutor : MonoBehaviour
 
             if (activeCommand.IsFinished())
             {
-                // 要不要加个finish command?
+                // 瑕佷笉瑕佸姞涓猣inish command?
 
                 if (!activeCommand.IsSuccessful())
                 {
@@ -62,7 +62,7 @@ public class CommandExecutor : MonoBehaviour
 
     private void OnDestroy()
     {
-        // 这里可能会有问题
+        // 杩欓噷鍙兘浼氭湁闂
         CommandManager.Instance.UnregisterExecuter(this);
     }
 }

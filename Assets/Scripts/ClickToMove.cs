@@ -15,7 +15,7 @@ public class ClickToMove : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        // ֮��Ҫ��Ϊ�µ�Input System
+        // 之后要改为新的Input System
         // Detect left mouse button click
         if (Input.GetMouseButtonDown(1))
         {
@@ -25,6 +25,8 @@ public class ClickToMove : MonoBehaviour
             // 2D position
             Vector3 position = new Vector3(mousePosition.x, mousePosition.y, transform.position.z); // Keep current z position
 
+            // 也许判断下目前是什么模式，或者需要走命令接口
+            // 然后必须选择后才能响应用户控制
             playerController.StartMovingToDest(position);
         }
     }

@@ -26,5 +26,5 @@ public abstract class Command
     public abstract bool IsSuccessful();      // Check if the command was successful
     public abstract void Undo();              // Optional: Implement undo logic
 
-    // 也许之后要加失败原因
+    // 涔熻涔嬪悗瑕佸姞澶辫触鍘熷洜
 }
