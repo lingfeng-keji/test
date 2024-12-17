@@ -152,7 +152,6 @@ public class PlayerController : MonoBehaviour
                 {
                     if (pathPointList != null && pathPointList.Count > 0)
                     {
-
                         if (currentIndex < pathPointList.Count)
                         {
                             distToPathPoint = Vector2.Distance(transform.position, pathPointList[currentIndex]);
@@ -174,6 +173,15 @@ public class PlayerController : MonoBehaviour
                         else
                         {
                             motionVector = Vector2.zero;
+                            float dist = Vector2.Distance(transform.position, destPos);
+                            if (dist <= stopDistance)
+                            {
+                                StopMovingToDest(true);
+                            }
+                            else
+                            {
+                                StopMovingToDest(false);
+                            }
                         }
                     }
                 }

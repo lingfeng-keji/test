@@ -33,6 +33,6 @@ public class CommandManager : Singleton<CommandManager>
 
     void OnDestroy()
     {
-        excutors.Clear();
+        //excutors.Clear();
     }
 }

@@ -37,8 +37,7 @@ public class SelectionManager : Singleton<SelectionManager>
             Selection newSelected = null;
             if (hit)
             {
-                newSelected = FindComponentInChildren<Selection>(hit.transform.gameObject);
-                //newSelected = hit.transform.GetComponent<Selection>();
+                newSelected = hit.collider.GetComponent<Selection>();
                 if (newSelected != null)
                 {
                     if (newSelected != currentSelected)

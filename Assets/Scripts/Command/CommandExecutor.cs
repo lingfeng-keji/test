@@ -62,7 +62,7 @@ public class CommandExecutor : MonoBehaviour
 
     private void OnDestroy()
     {
-        // 这里可能会有问题
-        CommandManager.Instance.UnregisterExecuter(this);
+        // 这里可能会有问题，也许不应该依赖OnDestroy来进行资源管理
+        // CommandManager.Instance.UnregisterExecuter(this);
     }
 }

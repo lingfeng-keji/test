@@ -75,7 +75,6 @@ public class UIManager : Singleton<UIManager>
             if (currentSelected.selectedType == SelectionManager.SelectedType.Character)
             {
                 executor = currentSelected.transform.parent.GetComponent<CommandExecutor>();
-                // executor = currentSelected.GetComponent<CommandExecutor>();
             }
             else
             {
