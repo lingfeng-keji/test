@@ -137,8 +137,10 @@ MonoBehaviour:
   stopDistance: 0.2
   reachPathPointDist: 0.1
   distToPathPoint: 100
-  destination: {fileID: 0}
+  destPos: {x: 0, y: 0, z: 0}
   lastDestPos: {x: 0, y: 0, z: 0}
+  health: 0
+  stamina: 0
 --- !u!95 &4970093870464960790
 Animator:
   serializedVersion: 7

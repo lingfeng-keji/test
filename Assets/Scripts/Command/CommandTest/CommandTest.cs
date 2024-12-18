@@ -1,5 +1,6 @@
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Assertions;
 
 public class CommandTest : Singleton<CommandTest>
 {
@@ -26,15 +27,15 @@ public class CommandTest : Singleton<CommandTest>
 
             // Maybe can use factory pattern to generate commands.
             float t = Random.Range(2.0f, 4.0f);
-            Command sleepCommand = new SleepCommand(executor, t);
+            Command sleepCommand = new SleepTestCommand(executor, t);
             sleepCommand.EnqueueSelf();
 
             t = Random.Range(2.0f, 4.0f);
-            Command eatCommand = new EatCommand(executor, t, 0.5f);
+            Command eatCommand = new EatTestCommand(executor, t, 0.5f);
             eatCommand.EnqueueSelf();
 
             t = Random.Range(2.0f, 4.0f);
-            sleepCommand = new SleepCommand(executor, t, 0.5f);
+            sleepCommand = new SleepTestCommand(executor, t, 0.5f);
             sleepCommand.EnqueueSelf();
 
             // Add a SpriteRenderer component
@@ -74,7 +75,7 @@ public class CommandTest : Singleton<CommandTest>
             var moveToCommand = new MoveToCommand(playerExecutor, locationA.transform.position);
             moveToCommand.EnqueueSelf();
 
-            Command sleepCommand = new SleepCommand(playerExecutor, 4.0f);
+            Command sleepCommand = new SleepTestCommand(playerExecutor, 4.0f);
             sleepCommand.EnqueueSelf();
 
             var locationB = LocationManager.Instance.NameToLocationDict["BBB"];
@@ -102,130 +103,117 @@ public class CommandTest : Singleton<CommandTest>
     }
 }
 
-public class SleepCommand : Command
+public class SleepTestCommand : Command
 {
-    private float sleepTime;
-    private float sleepTimer;
+    private float commandTime;
+    private float commandTimer;
     private float randomValueSuccess;
-    private bool success;
-    private bool finished;
     private float successRate;
 
-    public SleepCommand(CommandExecutor executor, float time, float successRate = 1.0f)
+    public SleepTestCommand(CommandExecutor executor, float time, float successRate = 1.0f)
         : base(executor)
     {
-        sleepTime = time;
+        commandTime = time;
         this.successRate = successRate;
     }
     public override void StartCommand()
     {
-        sleepTimer = sleepTime;
-        finished = false;
-        success = false;
-        Debug.Log($"{Executor.name} start sleeping! (Will take {sleepTime} seconds)");
+        commandTimer = commandTime;
+        Debug.Log($"{Executor.name} start sleeping! (Will take {commandTime} seconds)");
         randomValueSuccess = Random.Range(0.0f, 1.0f);
     }
     public override void UpdateCommand(float deltaTime)
     {
-        if (Executor == null)
+        base.UpdateCommand(deltaTime);
+        commandTimer -= deltaTime;
+    }
+    public override bool CheckIfFinished()
+    {
+        bool result = false;
+        if (randomValueSuccess > successRate || commandTimer <= 0)
         {
-            Debug.Log($"There is no game objects!");
-            finished = true;
-            success = false;
-            return;
+            result = true;
         }
 
-        if (randomValueSuccess <= successRate)
-        {
-            sleepTimer -= deltaTime;
+        return result;
+    }
 
-            if (sleepTimer <= 0)
-            {
-                Debug.Log($"{Executor.name} sleep success!");
-                finished = true;
-                success = true;
-            }
+    public override bool CheckIfSuccessful()
+    {
+        bool result = false;
+        if (randomValueSuccess <= successRate && finished)
+        {
+            Debug.Log($"{Executor.name} sleeping succeeds!");
+            result = true;
         }
         else
         {
-            finished = true;
-            success = false;
-            Debug.Log($"{Executor.name} eating fails!");
+            Debug.Log($"{Executor.name} sleeping fails!");
         }
 
+        return result;
     }
-    public override bool IsFinished()
-    {
-        return finished;
-    }
-    public override bool IsSuccessful()
-    {
-        return success;
-    }
+
     public override void Undo()
     {
 
     }
 }
-public class EatCommand : Command
+public class EatTestCommand : Command
 {
-    private float eatTime;
-    private float eatTimer;
+    private float commandTime;
+    private float commandTimer;
     private float randomValueSuccess; // maybe later let gpt refactor name
-    private bool success;
-    private bool finished;
     float successRate;
 
-    public EatCommand(CommandExecutor executor, float time, float successRate = 1.0f)
+    public EatTestCommand(CommandExecutor executor, float time, float successRate = 1.0f)
         : base(executor)
     {
-        eatTime = time;
+        Assert.IsNotNull(executor);
+        commandTime = time;
         this.successRate = Mathf.Clamp(successRate, 0.0f, 1.0f);
     }
+
     public override void StartCommand()
     {
-        eatTimer = eatTime;
-        finished = false;
-        success = false;
-        Debug.Log($"{Executor.name} start eating! (Will take {eatTime} seconds)");
+        commandTimer = commandTime;
+        Debug.Log($"{Executor.name} start eating! (Will take {commandTime} seconds)");
         randomValueSuccess = Random.Range(0.0f, 1.0f);
     }
+
     public override void UpdateCommand(float deltaTime)
     {
-        if (Executor == null)
+        base.UpdateCommand(deltaTime);
+        commandTimer -= deltaTime;
+    }
+
+    public override bool CheckIfFinished()
+    {
+        bool result = false;
+        if (randomValueSuccess > successRate || commandTimer <= 0)
         {
-            Debug.Log($"Executor doesn't exist!");
-            finished = true;
-            success = false;
-            return;
+            result = true;
         }
 
-        if (randomValueSuccess <= successRate)
-        {
-            eatTimer -= deltaTime;
+        return result;
+    }
 
-            if (eatTimer <= 0)
-            {
-                Debug.Log($"{Executor.name} eating succeeds!");
-                finished = true;
-                success = true;
-            }
+    public override bool CheckIfSuccessful()
+    {
+        bool result = false;
+        if (randomValueSuccess <= successRate && finished)
+        {
+            Debug.Log($"{Executor.name} eating succeeds!");
+            result = true;
         }
         else
         {
-            finished = true;
-            success = false;
             Debug.Log($"{Executor.name} eating fails!");
         }
+
+        return result;
     }
-    public override bool IsFinished()
-    {
-        return finished;
-    }
-    public override bool IsSuccessful()
-    {
-        return success;
-    }
+
     public override void Undo()
     {
 
