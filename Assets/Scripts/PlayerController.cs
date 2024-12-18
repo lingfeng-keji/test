@@ -46,11 +46,6 @@ public class PlayerController : MonoBehaviour
 
     void Awake()
     {
-        //Transform physicsTransform = transform.Find("Physics");
-        //Assert.IsNotNull(physicsTransform);
-        //rigidbody2D = physicsTransform.GetComponent<Rigidbody2D>();
-        //Assert.IsNotNull(rigidbody2D);
-
         rigidbody2D = GetComponent<Rigidbody2D>();
 
         Transform graphicsTransform = transform.Find("Graphics");
@@ -109,10 +104,19 @@ public class PlayerController : MonoBehaviour
         this.reachDest = reachDest;
     }
 
-    //private bool CloseToDest()
-    //{
+    private bool CloseToDest()
+    {
+        bool isClose = false;
 
-    //}
+        float distance = Vector2.Distance(transform.position, destPos);
+
+        if ( distance <= stopDistance)
+        {
+            isClose = true;
+        }
+
+        return isClose;
+    }
 
     public bool ReachDest()
     {
@@ -140,9 +144,7 @@ public class PlayerController : MonoBehaviour
         {
             if (isMovingToDest)
             {
-                float distance = Vector2.Distance(transform.position, destPos);
-
-                if (distance <= stopDistance)
+                if (CloseToDest())
                 {
                     StopMovingToDest(true);
                     motionVector = Vector2.zero;
@@ -165,16 +167,12 @@ public class PlayerController : MonoBehaviour
                         if (currentIndex < pathPointList.Count)
                         {
                             motionVector = VectorUtils.GetDominantAxisDirection(pathPointList[currentIndex] - transform.position);
-                            //if (Mathf.Approximately(Vector3.SqrMagnitude(transform.position - lastPos), 0.0f))
-                            //{
-                            //    motionVector = new Vector2(motionVector.y, motionVector.x);
-                            //}
                         }
                         else
                         {
                             motionVector = Vector2.zero;
-                            float dist = Vector2.Distance(transform.position, destPos);
-                            if (dist <= stopDistance)
+
+                            if (CloseToDest())
                             {
                                 StopMovingToDest(true);
                             }
