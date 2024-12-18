@@ -1,0 +1,3731 @@
+fileFormatVersion: 2
+guid: 656ec32cdb50b95428ba1758915a51ca
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -989826974410656467
+    second: 184578_0
+  - first:
+      213: 3346013285764879626
+    second: 184578_1
+  - first:
+      213: 6552174652229339098
+    second: 184578_2
+  - first:
+      213: 8656922824727489119
+    second: 184578_3
+  - first:
+      213: -3158754103569093320
+    second: 184578_4
+  - first:
+      213: 8255858514384227322
+    second: 184578_5
+  - first:
+      213: 4425364157362122796
+    second: 184578_6
+  - first:
+      213: -9129563394597313075
+    second: 184578_7
+  - first:
+      213: 4097070391750751325
+    second: 184578_8
+  - first:
+      213: 9202374105224335593
+    second: 184578_9
+  - first:
+      213: -1487629624295139686
+    second: 184578_10
+  - first:
+      213: -8524742091735519701
+    second: 184578_11
+  - first:
+      213: -1662706326004507905
+    second: 184578_12
+  - first:
+      213: 1692306145798313884
+    second: 184578_13
+  - first:
+      213: -5444692108748342059
+    second: 184578_14
+  - first:
+      213: 1990031888556963358
+    second: 184578_15
+  - first:
+      213: -4628336277263712352
+    second: 184578_16
+  - first:
+      213: 2966388457836723405
+    second: 184578_17
+  - first:
+      213: -7761884539577688508
+    second: 184578_18
+  - first:
+      213: -8093172665860947590
+    second: 184578_19
+  - first:
+      213: -8213112982588958347
+    second: 184578_20
+  - first:
+      213: -4470507678700875110
+    second: 184578_21
+  - first:
+      213: -4858425967491968995
+    second: 184578_22
+  - first:
+      213: 8120140222512283682
+    second: 184578_23
+  - first:
+      213: 9165031655422619537
+    second: 184578_24
+  - first:
+      213: -8710789133570774839
+    second: 184578_25
+  - first:
+      213: -968990646062450885
+    second: 184578_26
+  - first:
+      213: 9159224007555007598
+    second: 184578_27
+  - first:
+      213: -8028941526795278092
+    second: 184578_28
+  - first:
+      213: -7421055268026752098
+    second: 184578_29
+  - first:
+      213: 1360908902614172672
+    second: 184578_30
+  - first:
+      213: -5794600546883379794
+    second: 184578_31
+  - first:
+      213: -686155961603703828
+    second: 184578_32
+  - first:
+      213: -2829375427452915328
+    second: 184578_33
+  - first:
+      213: -525766037205335819
+    second: 184578_34
+  - first:
+      213: 6852714904801475851
+    second: 184578_35
+  - first:
+      213: -7127198765340791002
+    second: 184578_36
+  - first:
+      213: 2088719975240369726
+    second: 184578_37
+  - first:
+      213: 9176835015860197375
+    second: 184578_38
+  - first:
+      213: -5154410846075542571
+    second: 184578_39
+  - first:
+      213: -4043187610043148365
+    second: 184578_40
+  - first:
+      213: -1239174959636012832
+    second: 184578_41
+  - first:
+      213: 7120020424031598650
+    second: 184578_42
+  - first:
+      213: -989830710438971238
+    second: 184578_43
+  - first:
+      213: 697791825688995516
+    second: 184578_44
+  - first:
+      213: 8772896162528156096
+    second: 184578_45
+  - first:
+      213: -8070515321475704705
+    second: 184578_46
+  - first:
+      213: 6736202603450003819
+    second: 184578_47
+  - first:
+      213: -5469265337608863844
+    second: 184578_48
+  - first:
+      213: 8735718445603215642
+    second: 184578_49
+  - first:
+      213: -113730286860514637
+    second: 184578_50
+  - first:
+      213: 149163027424454788
+    second: 184578_51
+  - first:
+      213: 3466172195586594001
+    second: 184578_52
+  - first:
+      213: -3251580977668024265
+    second: 184578_53
+  - first:
+      213: 4062320245595792404
+    second: 184578_54
+  - first:
+      213: -5762613554948516149
+    second: 184578_55
+  - first:
+      213: 3195910915895400914
+    second: 184578_56
+  - first:
+      213: 4162056502723408653
+    second: 184578_57
+  - first:
+      213: -6444452819580997651
+    second: 184578_58
+  - first:
+      213: 811772370695735243
+    second: 184578_59
+  - first:
+      213: -5756175941480713347
+    second: 184578_60
+  - first:
+      213: -2658236298032802058
+    second: 184578_61
+  - first:
+      213: 6676081211845659138
+    second: 184578_62
+  - first:
+      213: -3755475450596446789
+    second: 184578_63
+  - first:
+      213: 9060874477563294532
+    second: 184578_64
+  - first:
+      213: -8207995611008577772
+    second: 184578_65
+  - first:
+      213: 6529085339756650541
+    second: 184578_66
+  - first:
+      213: -7813389521534238075
+    second: 184578_67
+  - first:
+      213: -6669771258093455260
+    second: 184578_68
+  - first:
+      213: 6730037095465928733
+    second: 184578_69
+  - first:
+      213: 846110955747441286
+    second: 184578_70
+  - first:
+      213: -6983782040324011018
+    second: 184578_71
+  - first:
+      213: 9193981682266380580
+    second: 184578_72
+  - first:
+      213: 8710107197600252481
+    second: 184578_73
+  - first:
+      213: 6225189453685989375
+    second: 184578_74
+  - first:
+      213: 8460725490019318069
+    second: 184578_75
+  - first:
+      213: 2707539375225396570
+    second: 184578_76
+  - first:
+      213: 6370180838912284563
+    second: 184578_77
+  - first:
+      213: 3644973650135921493
+    second: 184578_78
+  - first:
+      213: -8549525693095526442
+    second: 184578_79
+  - first:
+      213: 2178406174006454243
+    second: 184578_80
+  - first:
+      213: -5267306012043020860
+    second: 184578_81
+  - first:
+      213: 979514246493344232
+    second: 184578_82
+  - first:
+      213: 6161451692529253936
+    second: 184578_83
+  - first:
+      213: 839066455842243057
+    second: 184578_84
+  - first:
+      213: 8100982320068241783
+    second: 184578_85
+  - first:
+      213: 6777482639900589465
+    second: 184578_86
+  - first:
+      213: 1348098125789529739
+    second: 184578_87
+  - first:
+      213: -8272452623915322961
+    second: 184578_88
+  - first:
+      213: -6134850071800207588
+    second: 184578_89
+  - first:
+      213: -5712227174279848697
+    second: 184578_90
+  - first:
+      213: 1881909119350701472
+    second: 184578_91
+  - first:
+      213: 113510891333264869
+    second: 184578_92
+  - first:
+      213: -2848282097629493063
+    second: 184578_93
+  - first:
+      213: 4878589902447087045
+    second: 184578_94
+  - first:
+      213: -7324410992716603833
+    second: 184578_95
+  - first:
+      213: 7120286174697330170
+    second: 184578_96
+  - first:
+      213: -7682807284975171398
+    second: 184578_97
+  - first:
+      213: 6895227196189674901
+    second: 184578_98
+  - first:
+      213: 185945407949468301
+    second: 184578_99
+  - first:
+      213: -464131743802168468
+    second: 184578_100
+  - first:
+      213: 6312486157772350866
+    second: 184578_101
+  - first:
+      213: 2533321174407274512
+    second: 184578_102
+  - first:
+      213: -7969105500749329408
+    second: 184578_103
+  - first:
+      213: -795066768039550287
+    second: 184578_104
+  - first:
+      213: -5394112235647486749
+    second: 184578_105
+  - first:
+      213: 2722384856440494252
+    second: 184578_106
+  - first:
+      213: -9131812215555030154
+    second: 184578_107
+  - first:
+      213: -5811785958920976223
+    second: 184578_108
+  - first:
+      213: 8303117590087934264
+    second: 184578_109
+  - first:
+      213: 3498381871387029949
+    second: 184578_110
+  - first:
+      213: -3392887516598529316
+    second: 184578_111
+  - first:
+      213: -5891093496823829680
+    second: 184578_112
+  - first:
+      213: -8678752518379520879
+    second: 184578_113
+  - first:
+      213: -2456464366824506629
+    second: 184578_114
+  - first:
+      213: 478602693735267224
+    second: 184578_115
+  - first:
+      213: -3790772344730889913
+    second: 184578_116
+  - first:
+      213: 7402747826057933023
+    second: 184578_117
+  - first:
+      213: -5798693104930095545
+    second: 184578_118
+  - first:
+      213: -7060755099621234529
+    second: 184578_119
+  - first:
+      213: 6738675801107800540
+    second: 184578_120
+  - first:
+      213: -7751746046624511039
+    second: 184578_121
+  - first:
+      213: 1023108462633275422
+    second: 184578_122
+  - first:
+      213: 4150013965381025535
+    second: 184578_123
+  - first:
+      213: 7567300019905197501
+    second: 184578_124
+  - first:
+      213: -456620324790144855
+    second: 184578_125
+  - first:
+      213: -3421708315737465367
+    second: 184578_126
+  - first:
+      213: -3112636527117776741
+    second: 184578_127
+  - first:
+      213: 2699745554440934876
+    second: 184578_128
+  - first:
+      213: -1343527093596630553
+    second: 184578_129
+  - first:
+      213: -4620567688984938638
+    second: 184578_130
+  - first:
+      213: 4175941226309495441
+    second: 184578_131
+  - first:
+      213: -2241975393988147935
+    second: 184578_132
+  - first:
+      213: -1326773753235748590
+    second: 184578_133
+  - first:
+      213: 2221552271694946920
+    second: 184578_134
+  - first:
+      213: 190369676996905751
+    second: 184578_135
+  - first:
+      213: -2909569185822539826
+    second: 184578_136
+  - first:
+      213: 2782768679095532297
+    second: 184578_137
+  - first:
+      213: 3933185258398764940
+    second: 184578_138
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wild Animals_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 400
+        width: 5
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8121e323764d2514e85f7b70c30b8a44
+      internalID: -1618722427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 400
+        width: 5
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f308ae5c736c30b41b2ba9565aaac685
+      internalID: -1282059676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 400
+        width: 14
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5676c0bdcd8a848a677c934ad75fc2
+      internalID: -1442178461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_3
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 400
+        width: 5
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7201b29ac1e67584bbdcb4f5f10874ae
+      internalID: -1943682017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_4
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 400
+        width: 6
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab2ad7b5062e7646ada998bd69cb561
+      internalID: 44387928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_5
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 400
+        width: 6
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70ff86521041b44b9a9a36065b9738f
+      internalID: 1115485295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_6
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 400
+        width: 5
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510a48784aa846f4fb28034c6ab8141b
+      internalID: -1963036272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_7
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 400
+        width: 6
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e0f572f6c820f4faa9c38488e0411c
+      internalID: 1971652394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_8
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 400
+        width: 6
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c050a9bacf8505944a87ef8cfc6a9c23
+      internalID: 32321211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_9
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 400
+        width: 14
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e96f2d72daa3a8498432f3e0daa1153
+      internalID: -819390686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_10
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 400
+        width: 14
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b58040e6ee4137c4bad80e4e8322f96e
+      internalID: -98769114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_11
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 400
+        width: 14
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdca28999cb9e64a9d13ff938e1cac3
+      internalID: -127251534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_12
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 400
+        width: 5
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c832e7c03b4eb488d9ce3e4f9de39a
+      internalID: -804027957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_13
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 376
+        width: 9
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f292d041fc46f5438a1ece5576e3024
+      internalID: -1918050706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_14
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 376
+        width: 9
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c7d47a5868202449f700b562bdfd82
+      internalID: 1325229753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_15
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 376
+        width: 8
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee5604f8bc702d43b4a6499c3b2ea86
+      internalID: -1752114994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_16
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 380
+        width: 9
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a908a80203888cb419b7b664001ee8ec
+      internalID: 1811879535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_17
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 379
+        width: 9
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4b567c27558ca4987c9a78c0e93792
+      internalID: 485303958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_18
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 377
+        width: 9
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a79d2f1f4eff524fa36d1a392c20571
+      internalID: 314084518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_19
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 378
+        width: 9
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974f2c05f908667439299b73c21a13ff
+      internalID: 248929601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_20
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 380
+        width: 9
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ebf43076a2d3ef4a8cb3d82bdca2682
+      internalID: -646943142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_21
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 378
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c973a600a1628643aedaa18ec1ffd41
+      internalID: -1233801246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_22
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 378
+        width: 8
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79be1263391d0414481b0cb8f61742a1
+      internalID: 740427843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_23
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 378
+        width: 12
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0557963ab7841be4baae89883c97ff43
+      internalID: -1977770825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_24
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 377
+        width: 14
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5459db6fd99f86c4d92ce4707007dafa
+      internalID: 1003794234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_25
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 352
+        width: 10
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456797439452dd94c8caef416c29b941
+      internalID: 760124967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_26
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 352
+        width: 10
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b0482f4a01dd945bd54071f5983f53
+      internalID: -1085306415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_27
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 352
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f758bbec96a67d0498b276c4f6b087c9
+      internalID: 1267954800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_28
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 352
+        width: 10
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f7a20674df45c49bcf4b8727a06ebb
+      internalID: 1538586911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_29
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 352
+        width: 10
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7753aa2c862d64da9d9a72d5b095c3
+      internalID: -841807099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_30
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 352
+        width: 10
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4cca37fea61434098d5b3add0a7ad5
+      internalID: 1656062893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_31
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 352
+        width: 10
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c33711d17427a4d90a97b8ae72f814
+      internalID: 1093010589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_32
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 352
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc1b220b565ff94ca23ffe253300d65
+      internalID: -2045593466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_33
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a180d0e0f49524b42aef797957d3c498
+      internalID: -1471308438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_34
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 353
+        width: 10
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7b13a7aed644f43a3c4522c6b4d64a
+      internalID: -1498321643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_35
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 353
+        width: 10
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3eb1bf1e53511a4482f1728fed4c97f
+      internalID: -436685001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_36
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 353
+        width: 11
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2f9e2e0369a364091257ce828260fc
+      internalID: -18034523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_37
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 328
+        width: 9
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd64b1b229cef14dba31b8a4ea22b7a
+      internalID: 404529355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_38
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 328
+        width: 9
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd7bf326d530c74190f52d2b17a4449
+      internalID: -1164620057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_39
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 328
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ddf054a227d3d64d8cafe1801b8f69c
+      internalID: 842999639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_40
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 328
+        width: 9
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37b03af05ae4594fa38bb39a53822a0
+      internalID: 947617479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_41
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 328
+        width: 9
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d3e6e586f1af644acaf5fc195b411e
+      internalID: -1946587274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_42
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 328
+        width: 9
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62dbf0c7d73866a45a4af121cf22f8c3
+      internalID: -143341354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_43
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 328
+        width: 9
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722958ef8ade8e841bd32690f633d2ad
+      internalID: 1859833249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_44
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 328
+        width: 16
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543e29f2fe7360e42ac8921f57352984
+      internalID: -404378031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_45
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 328
+        width: 16
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2306fb92164764946b1bad17f7de03c3
+      internalID: 339410426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_46
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 328
+        width: 9
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d47899b801db8468ee07aaf656b2d3
+      internalID: 1822809695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_47
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 330
+        width: 9
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3a6ab832d1dd14fa314286cc2e842c
+      internalID: -684035744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_48
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 312
+        width: 9
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e960c884cead84dacd7abde9a7a3dc
+      internalID: 1331472248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_49
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 313
+        width: 9
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220a3aa3326e4be45a48388acd7a47f0
+      internalID: -1398336068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_50
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 312
+        width: 32
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50ca97e61205e541b62e1f23749badb
+      internalID: 1713361940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_51
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 312
+        width: 9
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62aaa9d6438e5244687765e909f70876
+      internalID: 2039975188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_52
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 312
+        width: 9
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1639e00cc90917e43bb3ec0158f0ac1c
+      internalID: -453973709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_53
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 312
+        width: 15
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d255e84baae70f42bd7386c0b3a829d
+      internalID: -1671759498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_54
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 312
+        width: 9
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0905451e47b7eaa4a930bdcb312a9581
+      internalID: -245075227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_55
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 312
+        width: 9
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145c0aab759820d4fb551b625bc66b97
+      internalID: -540135236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_56
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 312
+        width: 15
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6362d37ecc156fe478507f8aac112330
+      internalID: -2138003037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_57
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 288
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34da5d9adcbcf12429cb8ef8e778b0dc
+      internalID: -2115363954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_58
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 288
+        width: 12
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c99281978370b4ebcf0dacabc80c09
+      internalID: -1547743450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_59
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d13b8f2637090459a568a006a9aa45
+      internalID: -1015178724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_60
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 288
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976833406fec88945a4139c17218fd27
+      internalID: 1059610573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_61
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 288
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99f48eecf541b04a951dc2b3f39fe85
+      internalID: -234468842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_62
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 288
+        width: 12
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc6b99974a587a141a64f5fe682f48c6
+      internalID: -1833567261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_63
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 288
+        width: 12
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc345e717738704c8000091c37e538a
+      internalID: -89601651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_64
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 288
+        width: 32
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778270c14d108014bacc1e483808d9f3
+      internalID: -477676517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_65
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 292
+        width: 12
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b6c37c4a2e3adc44ad883c91364bc52
+      internalID: -1226325582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_66
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 288
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aadc8097348e45b489bda0820909ddc0
+      internalID: -311383839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_67
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 264
+        width: 11
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd55a9d6b307b74aa98530311774711
+      internalID: 644635483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_68
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 264
+        width: 8
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e77ab4c5ad1989c48ba3069923ad2c16
+      internalID: 1822131862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_69
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 264
+        width: 7
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3735fa0040d8648929d8ab4fd1e6a6
+      internalID: -1937359098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_70
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 266
+        width: 10
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe47d6584d9fc24195da6aedc8e38f5
+      internalID: 1876286026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_71
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 264
+        width: 7
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aefbc9434c508b449c4dced8845c937
+      internalID: 1861397681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_72
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 264
+        width: 7
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7712d8ea2f29364cb19025682a73a09
+      internalID: 958897997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_73
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 264
+        width: 16
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e815f0de938bb745b890903153a1ca0
+      internalID: -1920285537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_74
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 265
+        width: 19
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84ffe431af21a64e9d72c5d06ed4ea3
+      internalID: 1493124411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_75
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 266
+        width: 24
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e27129df073ad46840d2c50d5766f3
+      internalID: 1394062565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_76
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 264
+        width: 9
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49bc3021f2150a9478842f25dc177305
+      internalID: -2126278843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_77
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 240
+        width: 8
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0be79bb9f78ee1418d0fb543e07e35c
+      internalID: 1141615038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_78
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 240
+        width: 8
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8332232196f63734c840d7aa0bf14c9b
+      internalID: -141037043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_79
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 240
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b17eb3d1546e14598167fe19497bfe
+      internalID: 1191644881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_80
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 240
+        width: 8
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee50dd73498f7524783534175e4e49e1
+      internalID: 207896604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_81
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 240
+        width: 8
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b208ff8f782af448be74476a32f751
+      internalID: -1995312014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_82
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 240
+        width: 8
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8224cf458de03d640a960e9aa3031918
+      internalID: 906202954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_83
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 240
+        width: 8
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c993900f8492124fbe58d8620853efa
+      internalID: 1176568980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_84
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 240
+        width: 32
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31edf2accc2d7a448a94820223e40f9c
+      internalID: -1991720999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_85
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 217
+        width: 12
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0888bd39374ff4647938713f0204cbd5
+      internalID: 1450023008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_86
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 216
+        width: 10
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b961c53eb16ba4286209fd11217983
+      internalID: -1963903279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_87
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 216
+        width: 11
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16d6fcf95d63eb4ebe4d76d04a0844c
+      internalID: -1724343479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_88
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 216
+        width: 11
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49ea9744329fc64abca72f4598f8759
+      internalID: -1772896344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_89
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 217
+        width: 12
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95192a86d3b6474eb06888af83404ac
+      internalID: -1303311562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_90
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 217
+        width: 11
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33196a0cbc56ed344af319cef22cfa28
+      internalID: -235912761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_91
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 217
+        width: 12
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a02538726ecc094a9de02b22ba853df
+      internalID: -1744271519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_92
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 217
+        width: 12
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f72084631432d4d81310f2a148d484
+      internalID: -133639629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_93
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 217
+        width: 11
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426923cc651e38e48aa19a7e5880b1cf
+      internalID: 1890111503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_94
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 192
+        width: 10
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a025acfa0ee6a28418f3372ebc64f5e6
+      internalID: 389648756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_95
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 192
+        width: 10
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0add038be1f6c454d8b15c3819be0c40
+      internalID: -232732226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_96
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 192
+        width: 10
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ca4ecb112bd364a8d2f14af8012e4b
+      internalID: 1918485899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_97
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 192
+        width: 10
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3906241ba77094e965bf7a5f44257f
+      internalID: -569366178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_98
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 192
+        width: 10
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434ea77adf682734da77245d1385cfd1
+      internalID: 1441301433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_99
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 192
+        width: 10
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b1be6a7d7467d43a498ec66e2d5d90
+      internalID: -497850683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_100
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 192
+        width: 10
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2a621b70565f84a95b7298c5982f91
+      internalID: 1520963858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_101
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 192
+        width: 10
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1367bd42da614d40a45af0fb8247397
+      internalID: 1975904811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_102
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 192
+        width: 10
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5941c70f80191fe46968faabf74d0414
+      internalID: 1421349576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_103
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 168
+        width: 9
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b450e49a9d1834499f53e52f877909f
+      internalID: -37874639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_104
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 168
+        width: 9
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebcdc3bc392d6d24591f02dd136245f6
+      internalID: 455959397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_105
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 168
+        width: 9
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1dd1f98057f4d4297b7fff9a5c7e26
+      internalID: -1131428229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_106
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 168
+        width: 9
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4aa24d9b1f88941acac5da72318928
+      internalID: -1933156005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_107
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 169
+        width: 8
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4acca112decfb5489f967d052b1d4f4
+      internalID: 1090892659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_108
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 169
+        width: 8
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b094844177dc14f83fbe1a45c10b2c
+      internalID: -2086689974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_109
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 168
+        width: 9
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950d6b923bd010448b4c8856a9dfd4a7
+      internalID: -1116495532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_110
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 144
+        width: 9
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775769d4a56cd41489cef34c4cbec140
+      internalID: 770717317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_111
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 144
+        width: 9
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc128ceeaae12e49b339719996f26c8
+      internalID: -1130470972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_112
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 144
+        width: 9
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914a732fbcb1df7409e613a64175f5b8
+      internalID: 1000497658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_113
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 144
+        width: 9
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72535ea7f485aca419758b39d33cd864
+      internalID: 176354060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_114
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 144
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a4896e14549f0a4db1142cd4835bda5
+      internalID: 175640449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_115
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 144
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5466146a413f11d4a96ca2fdd2582f50
+      internalID: -154730462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_116
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 144
+        width: 9
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71034c5b698694d4cb6caa7d6b6ff0c2
+      internalID: -504320297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_117
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 120
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19b243023a390048ab05c024836251c
+      internalID: 697436329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_118
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 120
+        width: 9
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1fe840f8d353f4d914178b813f57aa
+      internalID: 792384255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_119
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 120
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72865cf029033341a99c89e67afe2e3
+      internalID: 598242873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_120
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 120
+        width: 9
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6c9973d4307b64eb143af248ab4143
+      internalID: 142656417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_121
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 120
+        width: 9
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114690c53997b2c4ab7c1cf5fd2149c0
+      internalID: -328542333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_122
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 120
+        width: 8
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8881bd5950a01ff409dd2acecd311d8f
+      internalID: 2050892569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_123
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 96
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47d128e2b243a7498b91dd87834a9c9
+      internalID: -1409785708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_124
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 96
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2d9091eada2e94c8471c32ab659877
+      internalID: -965527368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_125
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 96
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3066de8288718da42adc76b54162adc5
+      internalID: 1840275161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_126
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 96
+        width: 9
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4deb0c7ff887f94190cf2df5424c3d5
+      internalID: -2111902309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_127
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 77
+        width: 7
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a30a965b10b4f40be7037fc051061b
+      internalID: 2041910824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_128
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 76
+        width: 11
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74244de0455f7d3478c44e9bc36d26ee
+      internalID: 912101128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_129
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 76
+        width: 13
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae0a5376e2f3be49a188cb8e667ca1c
+      internalID: -1465292500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_130
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 76
+        width: 11
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c065a04cecaba4cadfdd13967c9b4b
+      internalID: -642253766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_131
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 49
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1ca649a68f98b44a4949f24588261f
+      internalID: -697020482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_132
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 51
+        width: 6
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5fe170ed4907241aaaba45802de75c
+      internalID: 1673296519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_133
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 48
+        width: 9
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787a6e655cca5cf4ab2583affc0b7401
+      internalID: -1747399101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_134
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 25
+        width: 13
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f715a4b7869e9f4898bd9b70540a804
+      internalID: -838315670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_135
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 25
+        width: 13
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2571e3e3104c394fb4a5ecb30da80b7
+      internalID: -401813927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_136
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 25
+        width: 13
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33fb38f15e5d6fb4f8865de47540c03e
+      internalID: 1164228566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_137
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2
+        width: 9
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b507dd70c71fe994eab92326f4d51c41
+      internalID: 899713242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Animals_138
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 2
+        width: 9
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967d6a0a4638ded46ba9cac42100167f
+      internalID: 558228701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: cf2c031066fec0641b7ba174985f2ded
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Wild Animals_0: -1618722427
+      Wild Animals_1: -1282059676
+      Wild Animals_10: -98769114
+      Wild Animals_100: 1520963858
+      Wild Animals_101: 1975904811
+      Wild Animals_102: 1421349576
+      Wild Animals_103: -37874639
+      Wild Animals_104: 455959397
+      Wild Animals_105: -1131428229
+      Wild Animals_106: -1933156005
+      Wild Animals_107: 1090892659
+      Wild Animals_108: -2086689974
+      Wild Animals_109: -1116495532
+      Wild Animals_11: -127251534
+      Wild Animals_110: 770717317
+      Wild Animals_111: -1130470972
+      Wild Animals_112: 1000497658
+      Wild Animals_113: 176354060
+      Wild Animals_114: 175640449
+      Wild Animals_115: -154730462
+      Wild Animals_116: -504320297
+      Wild Animals_117: 697436329
+      Wild Animals_118: 792384255
+      Wild Animals_119: 598242873
+      Wild Animals_12: -804027957
+      Wild Animals_120: 142656417
+      Wild Animals_121: -328542333
+      Wild Animals_122: 2050892569
+      Wild Animals_123: -1409785708
+      Wild Animals_124: -965527368
+      Wild Animals_125: 1840275161
+      Wild Animals_126: -2111902309
+      Wild Animals_127: 2041910824
+      Wild Animals_128: 912101128
+      Wild Animals_129: -1465292500
+      Wild Animals_13: -1918050706
+      Wild Animals_130: -642253766
+      Wild Animals_131: -697020482
+      Wild Animals_132: 1673296519
+      Wild Animals_133: -1747399101
+      Wild Animals_134: -838315670
+      Wild Animals_135: -401813927
+      Wild Animals_136: 1164228566
+      Wild Animals_137: 899713242
+      Wild Animals_138: 558228701
+      Wild Animals_14: 1325229753
+      Wild Animals_15: -1752114994
+      Wild Animals_16: 1811879535
+      Wild Animals_17: 485303958
+      Wild Animals_18: 314084518
+      Wild Animals_19: 248929601
+      Wild Animals_2: -1442178461
+      Wild Animals_20: -646943142
+      Wild Animals_21: -1233801246
+      Wild Animals_22: 740427843
+      Wild Animals_23: -1977770825
+      Wild Animals_24: 1003794234
+      Wild Animals_25: 760124967
+      Wild Animals_26: -1085306415
+      Wild Animals_27: 1267954800
+      Wild Animals_28: 1538586911
+      Wild Animals_29: -841807099
+      Wild Animals_3: -1943682017
+      Wild Animals_30: 1656062893
+      Wild Animals_31: 1093010589
+      Wild Animals_32: -2045593466
+      Wild Animals_33: -1471308438
+      Wild Animals_34: -1498321643
+      Wild Animals_35: -436685001
+      Wild Animals_36: -18034523
+      Wild Animals_37: 404529355
+      Wild Animals_38: -1164620057
+      Wild Animals_39: 842999639
+      Wild Animals_4: 44387928
+      Wild Animals_40: 947617479
+      Wild Animals_41: -1946587274
+      Wild Animals_42: -143341354
+      Wild Animals_43: 1859833249
+      Wild Animals_44: -404378031
+      Wild Animals_45: 339410426
+      Wild Animals_46: 1822809695
+      Wild Animals_47: -684035744
+      Wild Animals_48: 1331472248
+      Wild Animals_49: -1398336068
+      Wild Animals_5: 1115485295
+      Wild Animals_50: 1713361940
+      Wild Animals_51: 2039975188
+      Wild Animals_52: -453973709
+      Wild Animals_53: -1671759498
+      Wild Animals_54: -245075227
+      Wild Animals_55: -540135236
+      Wild Animals_56: -2138003037
+      Wild Animals_57: -2115363954
+      Wild Animals_58: -1547743450
+      Wild Animals_59: -1015178724
+      Wild Animals_6: -1963036272
+      Wild Animals_60: 1059610573
+      Wild Animals_61: -234468842
+      Wild Animals_62: -1833567261
+      Wild Animals_63: -89601651
+      Wild Animals_64: -477676517
+      Wild Animals_65: -1226325582
+      Wild Animals_66: -311383839
+      Wild Animals_67: 644635483
+      Wild Animals_68: 1822131862
+      Wild Animals_69: -1937359098
+      Wild Animals_7: 1971652394
+      Wild Animals_70: 1876286026
+      Wild Animals_71: 1861397681
+      Wild Animals_72: 958897997
+      Wild Animals_73: -1920285537
+      Wild Animals_74: 1493124411
+      Wild Animals_75: 1394062565
+      Wild Animals_76: -2126278843
+      Wild Animals_77: 1141615038
+      Wild Animals_78: -141037043
+      Wild Animals_79: 1191644881
+      Wild Animals_8: 32321211
+      Wild Animals_80: 207896604
+      Wild Animals_81: -1995312014
+      Wild Animals_82: 906202954
+      Wild Animals_83: 1176568980
+      Wild Animals_84: -1991720999
+      Wild Animals_85: 1450023008
+      Wild Animals_86: -1963903279
+      Wild Animals_87: -1724343479
+      Wild Animals_88: -1772896344
+      Wild Animals_89: -1303311562
+      Wild Animals_9: -819390686
+      Wild Animals_90: -235912761
+      Wild Animals_91: -1744271519
+      Wild Animals_92: -133639629
+      Wild Animals_93: 1890111503
+      Wild Animals_94: 389648756
+      Wild Animals_95: -232732226
+      Wild Animals_96: 1918485899
+      Wild Animals_97: -569366178
+      Wild Animals_98: 1441301433
+      Wild Animals_99: -497850683
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
