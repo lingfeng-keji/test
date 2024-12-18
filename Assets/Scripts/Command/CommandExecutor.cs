@@ -23,6 +23,7 @@ public class CommandExecutor : MonoBehaviour
 
     public void CancelCommands()
     {
+        // 也许加个强制取消的函数或事件
         activeCommand = null;
         commandQueue.Clear();
     }
@@ -47,13 +48,16 @@ public class CommandExecutor : MonoBehaviour
 
             if (activeCommand.IsFinished())
             {
-                // 要不要加个finish command?
+                activeCommand.OnFinished();
 
                 if (!activeCommand.IsSuccessful())
                 {
+                    activeCommand.OnFailure();
                     // Clear the queue if a command fails
                     commandQueue.Clear();
                 }
+
+                activeCommand.OnSuccess();
 
                 activeCommand = null;
             }

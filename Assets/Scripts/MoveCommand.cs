@@ -1,3 +1,4 @@
+using System;
 using UnityEngine;
 using UnityEngine.Assertions;
 
@@ -5,7 +6,7 @@ public class MoveToCommand : Command
 {
     PlayerController controller;
     Vector2 position;
-
+    
     public MoveToCommand(CommandExecutor executor, Vector2 pos)
         : base(executor)
     {
@@ -17,18 +18,17 @@ public class MoveToCommand : Command
     {
         controller.StartMovingToDest(position);
     }
-    public override void UpdateCommand(float deltaTime)
-    {
 
-    }
-    public override bool IsFinished()
+    public override bool CheckIfFinished()
     {
         return !controller.IsMovingToDest();
     }
-    public override bool IsSuccessful()
+
+    public override bool CheckIfSuccessful()
     {
         return controller.ReachDest();
     }
+
     public override void Undo()
     {
 
