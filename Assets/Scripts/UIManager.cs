@@ -92,6 +92,11 @@ public class UIManager : Singleton<UIManager>
                     var commandName = command.GetType().Name;
                     commandTexts[i].text = commandName;
                     ++i;
+
+                    if (i >= commandTexts.Count)
+                    {
+                        break;
+                    }
                 }
 
                 var active = executor.activeCommand;
