@@ -55,7 +55,7 @@ public abstract class Command
     public bool IsSuccessful() { return success; }      // Check if the command was successful
 
     //也许要加个Final，无条件最后执行，回收资源，关闭UI啥的
-    public abstract void Undo();              // Optional: Implement undo logic
+    public virtual void Undo() { }              // Optional: Implement undo logic
 
     // 也许之后要加失败原因
 }
