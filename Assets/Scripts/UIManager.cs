@@ -15,6 +15,8 @@ public class UIManager : Singleton<UIManager>
 
     public PlayerController playerController;
 
+    public GameObject uiActionBubblePrefab;
+
     // https://discussions.unity.com/t/can-i-should-i-call-awake-in-parent-class-manually/61587
     public override void Awake()
     {
@@ -42,7 +44,7 @@ public class UIManager : Singleton<UIManager>
             commandItem.GetComponent<RectTransform>().anchoredPosition = anchoredPos;
             commandItem.SetActive(true);
             // https://stackoverflow.com/questions/49172311/how-to-get-the-textmeshpro-component
-            var commandText = commandItem.GetComponent<TMP_Text>();
+            var commandText = commandItem.GetComponent<TMP_Text>(); //TextMeshProUGUI
             commandText.text = string.Empty;
             commandTexts.Add(commandText);
         }

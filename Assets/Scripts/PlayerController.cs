@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using Pathfinding;
 using UnityEngine.Assertions;
+using TMPro;
 
 public class PlayerController : MonoBehaviour
 {
@@ -31,18 +32,27 @@ public class PlayerController : MonoBehaviour
     private int currentIndex = 0;
     public float stopDistance = 0.5f;
     public float reachPathPointDist = 0.1f;
-    public float distToPathPoint = 100.0f;
+    private float distToPathPoint = 100.0f;
 
     public Vector3 destPos;
-    public Vector3 lastDestPos;
+    //public Vector3 lastDestPos;
 
-    private Vector3 lastPos;
+    //private Vector3 lastPos;
 
     bool isMovingToDest = false;
     bool reachDest = false;
 
     public int health = 0;
     public int stamina = 0;
+
+    Transform hudLogicTransform;
+
+    GameObject uiActionBubble = null;
+
+    public bool actionSuccess = false;
+
+    public CharacterActionStateMachine _characterActionStateMachine;
+    public CharacterActionStateMachine CharActionStateMachine => _characterActionStateMachine;
 
     void Awake()
     {
@@ -54,11 +64,49 @@ public class PlayerController : MonoBehaviour
         Assert.IsNotNull(animator);
 
         seeker  = GetComponent<Seeker>();
+
+        hudLogicTransform = transform.Find("HudLogic");
+
+        _characterActionStateMachine = new CharacterActionStateMachine(this);
+    }
+
+    public void ShowBubble(String text)
+    {
+        Vector3 screenPosition = Camera.main.WorldToScreenPoint(hudLogicTransform.position);
+        Debug.Log(screenPosition);
+
+        // 也许可以放到初始化里面
+        if (uiActionBubble == null)
+        {
+            var canvas = UIManager.Instance.transform.Find("Canvas");
+            uiActionBubble = Instantiate(UIManager.Instance.uiActionBubblePrefab, screenPosition, Quaternion.identity, canvas);
+        }
+        else
+        {
+            uiActionBubble.transform.position = screenPosition;
+        }
+
+        // 也许气泡逻辑应该写到单独的气泡脚本里
+        var actionText = uiActionBubble.transform.Find("ActionText");
+        var textComponent = actionText.GetComponent<TextMeshProUGUI>();
+        textComponent.text = text;
+
+        uiActionBubble.SetActive(true);
+
+    }
+
+    public void HideBubble()
+    {
+        if (uiActionBubble != null)
+        {
+            uiActionBubble.SetActive(false);
+        }
     }
 
     private void Start()
     {
-        lastPos = transform.position;
+        //lastPos = transform.position;
+        CharActionStateMachine.Initialize(CharActionStateMachine.idleState);
     }
 
     // Update is called once per frame
@@ -81,18 +129,29 @@ public class PlayerController : MonoBehaviour
 
     private void FixedUpdate()
     {
+        // 仅测试
+        //if (uiActionBubble != null)
+        //{
+        //    uiActionBubble.transform.position -= Vector3.up;
+        //}
         Move();
     }
 
     public void StartMovingToDest(Vector2 dest)
     {
-        float distance = Vector2.Distance(transform.position, dest);
+        CharActionStateMachine.TransitionTo(CharActionStateMachine.idleState);
 
-        if (distance > stopDistance)
+        destPos = dest;
+
+        if (CloseToDest())
+        {
+            isMovingToDest = false;
+            reachDest = true;
+        }
+        else
         {
             GeneratePath(dest);
 
-            destPos = dest;
             isMovingToDest = true;
             reachDest = false;
         }
@@ -252,7 +311,7 @@ public class PlayerController : MonoBehaviour
             }
         }
 
-        lastPos = transform.position;
+        //lastPos = transform.position;
     }
 
     void ChangeAnimationState(string newState)
