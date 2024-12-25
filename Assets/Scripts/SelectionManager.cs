@@ -61,6 +61,7 @@ public class SelectionManager : Singleton<SelectionManager>
                 {
                     currentSelected.SetDeselectedColor();
                     Deselected?.Invoke(currentSelected);
+                    currentSelected = null;
                 }
             }
         }

@@ -18,7 +18,7 @@ public class UIManager : Singleton<UIManager>
     public GameObject uiActionBubblePrefab;
 
     // https://discussions.unity.com/t/can-i-should-i-call-awake-in-parent-class-manually/61587
-    public override void Awake()
+    protected override void Awake()
     {
         base.Awake();
         commandTexts = new List<TMP_Text>();

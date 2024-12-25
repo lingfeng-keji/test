@@ -18,7 +18,7 @@ public class Singleton<T> : MonoBehaviour where T : Component
             return instance;
         }
     }
-    public virtual void Awake()
+    protected virtual void Awake()
     {
         RemoveDuplicates();
     }
