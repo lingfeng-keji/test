@@ -458,15 +458,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BROWNROCK_full_tileset_v2_4
+      name: Blacksmith
       rect:
         serializedVersion: 2
         x: 1031
         y: 747
         width: 252
         height: 244
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2341,15 +2341,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BROWNROCK_full_tileset_v2_89
+      name: Farm
       rect:
         serializedVersion: 2
         x: 1023
         y: 160
         width: 258
         height: 224
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2432,7 +2432,6 @@ TextureImporter:
       BROWNROCK_full_tileset_v2_37: 5395028415766276488
       BROWNROCK_full_tileset_v2_38: 4072457731728272127
       BROWNROCK_full_tileset_v2_39: 3269084303580611290
-      BROWNROCK_full_tileset_v2_4: -8530209361037124744
       BROWNROCK_full_tileset_v2_40: 5936655929516428445
       BROWNROCK_full_tileset_v2_41: 3786183189370729950
       BROWNROCK_full_tileset_v2_42: -8971350068844968829
@@ -2486,9 +2485,10 @@ TextureImporter:
       BROWNROCK_full_tileset_v2_86: -7449668945984212383
       BROWNROCK_full_tileset_v2_87: -1418737011501141397
       BROWNROCK_full_tileset_v2_88: 3601337413438243234
-      BROWNROCK_full_tileset_v2_89: 3370331222063688832
       BROWNROCK_full_tileset_v2_9: -1471679120412288274
       BROWNROCK_full_tileset_v2_90: 1509380523400746486
+      Blacksmith: -8530209361037124744
+      Farm: 3370331222063688832
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
