@@ -10,10 +10,7 @@ public class UIManager : Singleton<UIManager>
     private TMP_Text activeCommandText;
 
     private GameObject characterInfoDisplay;
-    private GameObject health;
-    private GameObject stamina;
-
-    public PlayerController playerController;
+    private TextMeshProUGUI nameText;
 
     public GameObject uiActionBubblePrefab;
 
@@ -26,8 +23,7 @@ public class UIManager : Singleton<UIManager>
         commandInQueue = FindChild(gameObject, "CommandInQueue");
 
         characterInfoDisplay = FindChild(gameObject, "CharacterInfoDisplay");
-        health = FindChild(gameObject, "Health");
-        stamina = FindChild(gameObject, "Stamina");
+        nameText = characterInfoDisplay.transform.Find("Name").GetComponent<TextMeshProUGUI>();
 
         characterInfoDisplay.SetActive(false);
     }
@@ -74,9 +70,11 @@ public class UIManager : Singleton<UIManager>
         if (currentSelected != null)
         {
             CommandExecutor executor = null;
+            PlayerController playerController = null;
             if (currentSelected.selectedType == SelectionManager.SelectedType.Character)
             {
                 executor = currentSelected.transform.parent.GetComponent<CommandExecutor>();
+                playerController = executor.GetComponent<PlayerController>();
             }
             else
             {
@@ -107,6 +105,11 @@ public class UIManager : Singleton<UIManager>
                     var activeName = active.GetType().Name;
                     activeCommandText.text = activeName;
                 }
+            }
+
+            if (playerController != null)
+            {
+                nameText.text = $"姓名 {playerController.playerName}";
             }
         }      
     }

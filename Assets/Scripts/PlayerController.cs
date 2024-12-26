@@ -51,6 +51,8 @@ public class PlayerController : MonoBehaviour
 
     public bool actionSuccess = false;
 
+    public string playerName = null;
+
     public CharacterActionStateMachine _characterActionStateMachine;
     public CharacterActionStateMachine CharActionStateMachine => _characterActionStateMachine;
 
