@@ -14,7 +14,7 @@ public class SelectionManager : Singleton<SelectionManager>
 
     public const string LAYER_SELECTABLE = "Selectable";
 
-    public Selection currentSelected = null;
+    [ReadOnly] public Selection currentSelected = null;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()

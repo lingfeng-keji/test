@@ -51,7 +51,7 @@ public class PlayerController : MonoBehaviour
 
     public bool actionSuccess = false;
 
-    public string playerName = null;
+    [ReadOnly] public string playerName = null;
 
     public CharacterActionStateMachine _characterActionStateMachine;
     public CharacterActionStateMachine CharActionStateMachine => _characterActionStateMachine;
@@ -75,7 +75,7 @@ public class PlayerController : MonoBehaviour
     public void ShowBubble(String text)
     {
         Vector3 screenPosition = Camera.main.WorldToScreenPoint(hudLogicTransform.position);
-        Debug.Log(screenPosition);
+        //Debug.Log(screenPosition);
 
         // 也许可以放到初始化里面
         if (uiActionBubble == null)
@@ -126,6 +126,12 @@ public class PlayerController : MonoBehaviour
         {
             FaceDirection.x = GetSignOrZero(motionVector.x);
             FaceDirection.y = GetSignOrZero(motionVector.y);
+        }
+
+        if (uiActionBubble != null && uiActionBubble.activeSelf)
+        {
+            Vector3 screenPosition = Camera.main.WorldToScreenPoint(hudLogicTransform.position);
+            uiActionBubble.transform.position = screenPosition;
         }
     }
 
