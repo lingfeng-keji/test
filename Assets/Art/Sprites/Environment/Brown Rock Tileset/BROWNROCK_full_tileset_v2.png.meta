@@ -502,15 +502,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BROWNROCK_full_tileset_v2_6
+      name: 3Trees
       rect:
         serializedVersion: 2
-        x: 1471
+        x: 1474
         y: 866
-        width: 161
+        width: 158
         height: 127
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -533,7 +533,7 @@ TextureImporter:
         height: 146
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 0, y: 0, z: 1, w: 0}
       customData: 
       outline: []
       physicsShape: []
@@ -546,12 +546,12 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BROWNROCK_full_tileset_v2_8
+      name: 3Trees_1
       rect:
         serializedVersion: 2
-        x: 1791
+        x: 1792
         y: 866
-        width: 161
+        width: 160
         height: 127
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -1901,7 +1901,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BROWNROCK_full_tileset_v2_69
+      name: 4Trees
       rect:
         serializedVersion: 2
         x: 1568
@@ -1967,7 +1967,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BROWNROCK_full_tileset_v2_72
+      name: 4Trees_1
       rect:
         serializedVersion: 2
         x: 1888
@@ -2398,6 +2398,10 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
+      3Trees: 8723049308971455371
+      3Trees_1: -8515579399175312876
+      4Trees: -6967324165574299414
+      4Trees_1: -7486092615750913941
       BROWNROCK_full_tileset_v2_0: 4158591838662522853
       BROWNROCK_full_tileset_v2_1: -3719274075719704934
       BROWNROCK_full_tileset_v2_10: -7020676168073971513
@@ -2453,7 +2457,6 @@ TextureImporter:
       BROWNROCK_full_tileset_v2_57: -6826010529307177385
       BROWNROCK_full_tileset_v2_58: 2777879694472437716
       BROWNROCK_full_tileset_v2_59: 6429589806899620679
-      BROWNROCK_full_tileset_v2_6: 8723049308971455371
       BROWNROCK_full_tileset_v2_60: 7774962811072292944
       BROWNROCK_full_tileset_v2_61: -2070315271225970723
       BROWNROCK_full_tileset_v2_62: -2541737019940972394
@@ -2463,11 +2466,9 @@ TextureImporter:
       BROWNROCK_full_tileset_v2_66: 2002672159022891232
       BROWNROCK_full_tileset_v2_67: -988741135455818800
       BROWNROCK_full_tileset_v2_68: 5052940355991700399
-      BROWNROCK_full_tileset_v2_69: -6967324165574299414
       BROWNROCK_full_tileset_v2_7: -2027041730880648976
       BROWNROCK_full_tileset_v2_70: 5889621251377199674
       BROWNROCK_full_tileset_v2_71: 5848472413276587841
-      BROWNROCK_full_tileset_v2_72: -7486092615750913941
       BROWNROCK_full_tileset_v2_73: 3605774142290726208
       BROWNROCK_full_tileset_v2_74: 2463456777290008734
       BROWNROCK_full_tileset_v2_75: -3991012697742832423
@@ -2475,7 +2476,6 @@ TextureImporter:
       BROWNROCK_full_tileset_v2_77: -351162939325377986
       BROWNROCK_full_tileset_v2_78: -3377371819406986075
       BROWNROCK_full_tileset_v2_79: 3392910208179372117
-      BROWNROCK_full_tileset_v2_8: -8515579399175312876
       BROWNROCK_full_tileset_v2_80: -7304531668101682773
       BROWNROCK_full_tileset_v2_81: -2745518366987641289
       BROWNROCK_full_tileset_v2_82: 2907386746865759797

@@ -1,11 +1,9 @@
 using Newtonsoft.Json;
-using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Assertions;
 using UnityEngine.Networking;
-using static UnityEditor.FilePathAttribute;
 
 public class AIAgent : Singleton<AIAgent>
 {
