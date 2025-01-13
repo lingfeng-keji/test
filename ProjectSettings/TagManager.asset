@@ -38,8 +38,17 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Water
+    uniqueID: 1459153327
+    locked: 0
+  - name: Terrain
+    uniqueID: 4294113789
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Decorations
+    uniqueID: 1839286831
     locked: 0
   m_RenderingLayers:
   - Default

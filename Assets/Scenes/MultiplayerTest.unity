@@ -13618,10 +13618,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: AICharacter
       objectReference: {fileID: 0}
-    - target: {fileID: 933669145676767054, guid: abcd182c93159cd4881d7f8bc7977223, type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 8321363245267326988, guid: abcd182c93159cd4881d7f8bc7977223, type: 3}
       propertyPath: m_LocalPosition.x
       value: -2.93
